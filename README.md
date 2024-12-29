@@ -5,6 +5,7 @@ The machine learnig algorithms are the Random Forest Classifier, Logistic Regres
 --GUIDE ON HOW TO RUN THE CODE--
 
 It is intended to run in jupyter notebook to help highlight each section but can be run in any python IDE
+Download all the CSV files shown below
 All 5 CSV files will need to be located within the same file as the IDS code and will need to be named exactly as follows:
 
 - UNSW-NB15_1.csv
